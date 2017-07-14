@@ -11,6 +11,7 @@ ICDB_MP.lsp 파일과 database.txt파일을 같은 폴더에 넣고 ICDB_MP.lsp 
 불러오면 database.txt 파일을 읽으며, 다 읽은 후 사용할 준비가 되면 Loading complete! 라는 메시지가 출력된다. 
 이후 아래의 여러 함수들을 사용하여 DB에 데이터를 입력, 수정, 검색, 삭제할 수 있고 DB자체를 다시 읽거나 저장할 수 있다.
 
+
 함수목록
 
 regEmp - 직원 등록
