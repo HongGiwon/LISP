@@ -1,5 +1,6 @@
 # LISP
 Database program by LISP
+<br>LISP을 통해 구현한 보험회사 데이터베이스 시스템
 
 Development environment
 OS : windows 7
@@ -14,7 +15,7 @@ ICDB_MP.lsp 파일과 database.txt파일을 같은 폴더에 넣고 ICDB_MP.lsp 
 
 함수목록
 
-<br>regEmp - 직원 등록
+regEmp - 직원 등록
 <br>regIns - 보험 등록
 <br>regCli - 고객 등록
 <br>delEmp - 직원 삭제
