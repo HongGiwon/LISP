@@ -1,4 +1,4 @@
-# LISP
+# LISP (팀프로젝트)
 Database program by LISP
 <br>LISP을 통해 구현한 보험회사 데이터베이스 시스템
 
