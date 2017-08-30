@@ -4,7 +4,7 @@ Database program by LISP
 
 ### Development environment
 OS : windows 7
-Common LISP : XLISP-PLUS 3.05
+<br>Common LISP : XLISP-PLUS 3.05
 
 ### Run
 ICDB_MP.lsp 파일과 database.txt파일을 같은 폴더에 넣고 ICDB_MP.lsp 를 XLISP-PLUS 3.05를 사용하여 실행 한다.
